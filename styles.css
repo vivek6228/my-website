@@ -44,7 +44,7 @@ article {
 }
 
 .gallery-container img {
-    width: 200px;
+    width: auto;
     height: auto;
     border: 2px solid #4CAF50;
     border-radius: 5px;
